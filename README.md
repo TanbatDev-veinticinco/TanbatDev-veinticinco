@@ -1,17 +1,58 @@
 # 👋 Hey there! I'm Alatishe Omolayo
 
-🚀 Junior Software Engineer based in Nigeria 🇳🇬  
-💻 Passionate about building scalable web applications and clean user experiences  
+🚀 Junior Software Engineer | 🇳🇬 Nigeria  
+💡 Passionate about building scalable web applications and real-world digital products  
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
 ```js
 const omolayo = {
-  location: "Lagos, Nigeria",
+  location: "Lagos, Nigeria 🇳🇬",
   role: "Junior Software Engineer",
+  currentFocus: "Building scalable backend systems and modern web applications",
   stack: ["React", "Vue", "FastAPI", "Node.js"],
-  currentlyLearning: ["System Design", "Backend Architecture"],
-  focus: "Building real-world, production-ready applications",
+  interests: ["Web Development", "System Design", "Tech Exploration"],
+  funFact: "Debugging feels like being the detective 🕵️ and the suspect at the same time 😄",
+  philosophy: "Growing one commit at a time while building meaningful solutions"
 };
+💻 Tech Stack
+🧠 Languages
+JavaScript
+TypeScript
+🎨 Frontend
+React.js
+Vue.js
+Tailwind CSS
+HTML5 & CSS3
+⚙️ Backend
+FastAPI
+Node.js
+🗄️ Database
+PostgreSQL
+MySQL
+🛠 Tools
+Git & GitHub
+Postman
+VS Code
+🚀 What I'm Working On
+🔨 Building real-world projects like Connectify
+⚡ Improving backend architecture with FastAPI
+📈 Learning system design and scalable application structure
+📊 GitHub Analytics
+
+🤝 Let's Connect!
+
+I'm open to collaboration, freelance opportunities, and tech discussions.
+
+🌍 Portfolio: https://tanbat-dev.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/your-link
+🐦 Twitter: https://x.com/your-handle
+💼 Open to Opportunities
+
+I’m currently open to:
+
+Internships
+Junior Software Engineering roles
+Freelance projects
