@@ -1,7 +1,15 @@
 # 👋 Hey there! I'm Alatishe Omolayo
 
 🚀 Junior Software Engineer | 🇳🇬 Nigeria  
-💡 Passionate about building scalable web applications and real-world digital products  
+💡 Passionate about building scalable web applications and real-world digital products 
+
+contact
+
+🌍 Portfolio: https://tanbat-dev.vercel.app/
+💼 LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/alatishe-omolayo-2632b92a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+🐦 Twitter: [https://x.com/your-handle](https://x.com/tanbat_dev?s=21)
+Email: alatisheomolayo88@gmail.com
+💼 Open to Opportunities
 
 ---
 
@@ -51,10 +59,7 @@ VS Code
 
 I'm open to collaboration, freelance opportunities, and tech discussions.
 
-🌍 Portfolio: https://tanbat-dev.vercel.app/
-💼 LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/alatishe-omolayo-2632b92a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-🐦 Twitter: [https://x.com/your-handle](https://x.com/tanbat_dev?s=21)
-💼 Open to Opportunities
+
 
 I’m currently open to:
 
