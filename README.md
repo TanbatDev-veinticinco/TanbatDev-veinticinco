@@ -28,7 +28,7 @@
 
 ## 🎯 About Me
 
-`js
+``js
 const omolayo = {
   location: "Lagos, Nigeria 🇳🇬",
   role: "Junior Software Engineer",
