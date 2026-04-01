@@ -91,7 +91,7 @@ const omolayo = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanbatDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?TanbatDev-veinticinco=TanbatDev&show_icons=true&theme=radical" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=TanbatDev&theme=radical" />
 </p>
