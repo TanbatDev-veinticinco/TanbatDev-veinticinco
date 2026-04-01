@@ -1,15 +1,28 @@
-# 👋 Hey there! I'm Alatishe Omolayo
+<h1 align="center">👋 Hey, I'm Alatishe Omolayo</h1>
 
-🚀 Junior Software Engineer | 🇳🇬 Nigeria  
-💡 Passionate about building scalable web applications and real-world digital products 
+<p align="center">
+  🚀 Junior Software Engineer • 🇳🇬 Nigeria <br/>
+  💡 Building scalable web applications & real-world digital products
+</p>
 
-contact
+---
 
-🌍 Portfolio: https://tanbat-dev.vercel.app/
-💼 LinkedIn: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/alatishe-omolayo-2632b92a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-🐦 Twitter: [https://x.com/your-handle](https://x.com/tanbat_dev?s=21)
-Email: alatisheomolayo88@gmail.com
-💼 Open to Opportunities
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://tanbat-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alatishe-omolayo-2632b92a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/tanbat_dev">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:alatisheomolayo88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -22,7 +35,7 @@ const omolayo = {
   currentFocus: "Building scalable backend systems and modern web applications",
   stack: ["React", "Vue", "FastAPI", "Node.js"],
   interests: ["Web Development", "System Design", "Tech Exploration"],
-  funFact: "Debugging feels like being the detective 🕵️ and the suspect at the same time 😄",
+  funFact: "Debugging feels like being the detective 🕵️ and the suspect 😄",
   philosophy: "Growing one commit at a time while building meaningful solutions"
 };
 
