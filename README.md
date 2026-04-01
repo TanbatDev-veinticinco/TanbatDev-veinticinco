@@ -28,7 +28,7 @@
 
 ## 🎯 About Me
 
-``js
+```js
 const omolayo = {
   location: "Lagos, Nigeria 🇳🇬",
   role: "Junior Software Engineer",
@@ -38,6 +38,7 @@ const omolayo = {
   funFact: "Debugging feels like being the detective 🕵️ and the suspect 😄",
   philosophy: "Growing one commit at a time while building meaningful solutions"
 };
+```
 
 ---
 
@@ -91,9 +92,9 @@ const omolayo = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?TanbatDev-veinticinco=TanbatDev&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=TanbatDev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanbatDev-veinticinco&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=TanbatDev-veinticinco&theme=radical" />
 </p>
 
 ---
