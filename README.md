@@ -39,7 +39,9 @@ const omolayo = {
   philosophy: "Growing one commit at a time while building meaningful solutions"
 };
 
-
+💻 Tech Stack
+🧠 Languages
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/> </p>
 💻 Tech Stack
 🧠 Languages
 JavaScript
