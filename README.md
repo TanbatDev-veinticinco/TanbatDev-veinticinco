@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there! I'm Alatishe Omolayo
 
-<!--
-**TanbatDev-veinticinco/TanbatDev-veinticinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Software Engineer based in Nigeria 🇳🇬  
+💻 Passionate about building scalable web applications and clean user experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+```js
+const omolayo = {
+  location: "Lagos, Nigeria",
+  role: "Junior Software Engineer",
+  stack: ["React", "Vue", "FastAPI", "Node.js"],
+  currentlyLearning: ["System Design", "Backend Architecture"],
+  focus: "Building real-world, production-ready applications",
+};
